@@ -1,2 +1,3 @@
 Next:
-- https://www.vuemastery.com/courses/intro-to-vue-js/class-&-style-binding
+- https://www.vuemastery.com/courses/intro-to-vue-js/class-&-style-binding 
+- 
